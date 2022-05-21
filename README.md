@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Frontend Mentor Projects](https://www.frontendmentor.io/profile/nakoyawilson)
 
-- 👨‍💻 All of my projects are available at [https://nakoyawilson.netlify.app/](https://nakoyawilson.netlify.app/)
+- 👨‍💻 My portfolio is available at [https://nakoyawilson.netlify.app/](https://nakoyawilson.netlify.app/)
 
 - 📫 How to reach me **wilson.nakoya@gmail.com**
 
